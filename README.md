@@ -10,6 +10,7 @@ The main reason binary code was used to communicate was because parsing
 using ArduinoJSON required large resource which Arduino did not have. 
 As a result, the machine failed to communicate successfully once in 10 communications.
 
-Libraries Used
+# Libraries Used
 Bounce2
+SoftwareSerial 
 ArduinoJSON -  Benoit BLANCHON
