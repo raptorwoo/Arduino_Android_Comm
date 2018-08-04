@@ -11,6 +11,6 @@ using ArduinoJSON required large resource which Arduino did not have.
 As a result, the machine failed to communicate successfully once in 10 communications.
 
 # Libraries Used
-Bounce2
-SoftwareSerial 
+Bounce2 \n
+SoftwareSerial \n
 ArduinoJSON -  Benoit BLANCHON
