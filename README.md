@@ -1,5 +1,6 @@
-# Arduino_Android_Comm
-Communication code for Arduino - Android. 
+# Arduino
+
+1. Communication code for Arduino - Android. 
 
 This program was made to produce a prototype using Arduino, and to check
 how BLE communication works with an Android device. The data that Arduino 
@@ -9,6 +10,10 @@ button was pressed.
 The main reason binary code was used to communicate was because parsing 
 using ArduinoJSON required large resource which Arduino did not have. 
 As a result, the machine failed to communicate successfully once in 10 communications.
+
+# STM32
+
+
 
 # Libraries Used
 Bounce2 // SoftwareSerial // ArduinoJSON -  Benoit BLANCHON
